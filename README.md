@@ -1,4 +1,4 @@
-# Olá, eu sou o Vinícius 👋
+# Olá, eu sou o Vinícius
 
 Desenvolvedor fullstack em **C#/.NET, React e SQL Server**, com foco em qualidade de software e **IA aplicada ao desenvolvimento**. João Pessoa, PB.
 
