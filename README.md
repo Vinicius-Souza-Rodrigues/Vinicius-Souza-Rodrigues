@@ -2,7 +2,7 @@
 
 Desenvolvedor fullstack em **C#/.NET, React e SQL Server**, com foco em qualidade de software e **IA aplicada ao desenvolvimento**. João Pessoa, PB.
 
-- 💼 Fiz 1 ano de estágio em desenvolvimento na **SMN Tecnologia**, num sistema de gestão para construtoras. Lá criei um **pipeline multiagente de testes com IA** (Claude + Azure DevOps via MCP), que planejava e executava os testes de cada card, gerava relatórios de falha e dava o parecer final antes do merge.
+- 💼 Fiz 1 ano de estágio em desenvolvimento na **SMN Tecnologia**. Lá gerenciei e atualizei um **pipeline multiagente de testes com IA** (Claude + Azure DevOps via MCP), que planejava e executava os testes de cada card, gerava relatórios de falha e dava o parecer final antes do merge.
 - 🎓 Sou formado em Sistemas para Internet e estou cursando Sistemas de Informação na UNIESP.
 - 🌐 Faço sites como freelancer: [abrantesflor.adv.br](http://abrantesflor.adv.br)
 
